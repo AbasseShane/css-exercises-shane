@@ -1,0 +1,15 @@
+.first-button,
+.second-button {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.first-button {
+    background-color: black;
+    color: white;
+}
+
+.second-button {
+    background-color: rgb(231, 231, 32);
+}
